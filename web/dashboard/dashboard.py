@@ -3,6 +3,8 @@
 # Network URL: http://192.168.0.50:8501
 # Online URL : http://15.188.179.79
 
+pip install matplotlib.pyplot
+
 import streamlit as st
 from PIL import Image
 import requests
