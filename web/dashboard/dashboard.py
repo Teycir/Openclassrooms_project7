@@ -2,7 +2,7 @@
 # Local URL: http://localhost:8501
 # Network URL: http://192.168.0.50:8501
 # Online URL : http://15.188.179.79
-
+pip3 install matplotlib
 
 import streamlit as st
 from PIL import Image
