@@ -8,7 +8,7 @@ from PIL import Image
 import requests
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 
 def main():
@@ -95,18 +95,18 @@ def main():
         frequencies.append(1 - sum_fi)
 
         # Set up the axe
-        _, ax = plt.subplots()
-        ax.axis("equal")
-        ax.pie(frequencies)
-        ax.set_title("Features importance")
-        ax.legend(
-            labels,
-            loc='center left',
-            bbox_to_anchor=(0.7, 0.5),
-        )
+        #_, ax = plt.subplots()
+        #ax.axis("equal")
+        #ax.pie(frequencies)
+        #ax.set_title("Features importance")
+        #ax.legend(
+        #    labels,
+        #    loc='center left',
+        #    bbox_to_anchor=(0.7, 0.5),
+        #)
 
         # Plot the pie-plot of features importance
-        st.pyplot()
+        #st.pyplot()
 
 
         if st.checkbox('Show details'):
