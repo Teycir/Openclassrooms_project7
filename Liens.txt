@@ -1,0 +1,6 @@
+Liens:
+
+git notebooks ==> https://github.com/Teycir/Openclassrooms_project7
+git api ==> https://github.com/Teycir/API
+git dashboard ==> https://github.com/Teycir/DashBoard
+dashboard déployé ==> https://share.streamlit.io/teycir/dashboard/DashBoard/app.py
