@@ -13,7 +13,7 @@ demandeurs de transparence vis-à-vis des décisions d’octroi de crédit .
 Pour cela nous allons mettre en place un dashboard interactif pour que les chargés de relation client
 puissent à la fois expliquer de façon la plus transparente possible les décisions d’octroi de crédit, mais
 également permettre à leurs clients de disposer de leurs informations personnelles et de les explorer
-facilement. Les data scientists pourront avec ce dashbord calibrer les modèles et les entrainer. 
+facilement. Les data scientists pourront avec ce dashbord calibrer les modèles et les entrainer ainsi qu'explorer les données. 
 
 
 ## Données
