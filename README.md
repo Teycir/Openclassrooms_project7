@@ -23,7 +23,7 @@ facilement. Les data scientists pourront avec ce dashbord calibrer les modèles 
 ## Lien pour l'API
 Ceci est notre lien du déploiement de notre API.
 
-https://dashboard.heroku.com/apps/pretdepenser/
+https://pretdepenser.herokuapp.com/
 
 Github API: https://github.com/Teycir/API 
 
