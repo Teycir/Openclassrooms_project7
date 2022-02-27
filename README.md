@@ -19,6 +19,15 @@ facilement. Les data scientists pourront avec ce dashbord calibrer les modèles 
 ## Données
 
  https://www.kaggle.com/c/home-credit-default-risk/data
+ 
+ 
+## Notebooks
+
+* 1 projet7_kaggle_Feature_Engineering_1 ==> première étape de nettoyage de données: fusion et agrégation des données brutes
+* 2 projet7_kaggle_Feature_Engineering_2 ==> deuxième étape de nettoyage de données: traitement des valeurs manquantes, de la colinéarité, conversion de données 
+* 3 projet7_kaggle_Feature_Selection ==> réduction du nombre de features aux plus importantes
+* 4 projet7_modelisation ==> sélection du meilleur modèle
+* 5 projet7_interpretation ==> exploration du modèle sélectionné et application du surrogate model sur celui-ci
 
 ## Lien pour l'API
 Ceci est notre lien du déploiement de notre API.
